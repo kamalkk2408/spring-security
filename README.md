@@ -1,6 +1,7 @@
 # Spring Security
 # Introduction:
 
+
 -It is responsible for Application level security, basically it is a security framework
 - 1. Login & logout functionality.
   2. Allow/block access to URLs to logged in users. 
